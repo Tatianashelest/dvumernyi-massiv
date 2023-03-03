@@ -1,0 +1,15 @@
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/bin/Debug/net6.0/zadacha52
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/bin/Debug/net6.0/zadacha52.deps.json
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/bin/Debug/net6.0/zadacha52.runtimeconfig.json
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/bin/Debug/net6.0/zadacha52.dll
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/bin/Debug/net6.0/zadacha52.pdb
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.csproj.AssemblyReference.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.AssemblyInfoInputs.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.AssemblyInfo.cs
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.csproj.CoreCompileInputs.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.dll
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/refint/zadacha52.dll
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.pdb
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/zadacha52.genruntimeconfig.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/zadacha52/obj/Debug/net6.0/ref/zadacha52.dll
