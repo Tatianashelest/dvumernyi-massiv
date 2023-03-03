@@ -1,0 +1,15 @@
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/bin/Debug/net6.0/задача50
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/bin/Debug/net6.0/задача50.deps.json
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/bin/Debug/net6.0/задача50.runtimeconfig.json
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/bin/Debug/net6.0/задача50.dll
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/bin/Debug/net6.0/задача50.pdb
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.csproj.AssemblyReference.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.AssemblyInfoInputs.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.AssemblyInfo.cs
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.csproj.CoreCompileInputs.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.dll
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/refint/задача50.dll
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.pdb
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/задача50.genruntimeconfig.cache
+/Users/tatanaselest/Desktop/двемерный массив дз/zadacha1/задача50/obj/Debug/net6.0/ref/задача50.dll
